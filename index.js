@@ -31,7 +31,7 @@ client.on('ready', async () => {
     .setDetails(`HeH Life`)
     .setStartTimestamp()
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1016707563594715267/1269169284567928842/f5f27448c036af645c27467c789ad759.gif?ex=66af1581&is=66adc401&hm=47844de545e93b036e0b8daed726fa5f0b5c558a460a6321df4d5adf139fa5d3&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Click Click Click') //Text when you hover the Large image
+    .setAssetsLargeText('Click Click Click Click Click $') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1016707563594715267/1269169283804561459/cherry-blossom.gif?ex=66af1581&is=66adc401&hm=a05f85ad7995ea183eb449d7bd55e97d787a553b4b0bcdb86c03e92d4c9241ea&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Ara') //Text when you hover the Small image
     .addButton('Discord', 'https://www.youtube.com/@hutcalm')
